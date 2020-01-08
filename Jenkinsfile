@@ -40,9 +40,7 @@ pipeline {
 						}	
 					}
 				}
-				steps {
-					echo "Hello"
-				}
+
 			}
 
 		}
